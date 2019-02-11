@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="base.Putcallvalidation">
+      <class name="testcases.BalanceDetailsByCard">
         <methods>
-          <include name="Putrequest"/>
+          <include name="getbalancedetails"/>
         </methods>
-      </class> <!-- base.Putcallvalidation -->
+      </class> <!-- testcases.BalanceDetailsByCard -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

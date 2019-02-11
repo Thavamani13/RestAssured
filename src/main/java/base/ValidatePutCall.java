@@ -56,6 +56,10 @@ public class ValidatePutCall {
 	  
 	  System.out.println(responsemessage.body().asString());
 	  
+	long response_time =  responsemessage.getTime();
+	
+	System.out.println(response_time);
+	  
 	  
 	  
 	  

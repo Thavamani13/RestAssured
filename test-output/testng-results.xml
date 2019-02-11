@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3919" started-at="2019-02-10T12:51:57Z" finished-at="2019-02-10T12:52:01Z">
+  <suite name="Default suite" duration-ms="2611" started-at="2019-02-11T13:44:31Z" finished-at="2019-02-11T13:44:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3919" started-at="2019-02-10T12:51:57Z" finished-at="2019-02-10T12:52:01Z">
-      <class name="base.ValidatePutCall">
-        <test-method status="PASS" signature="Putrequest()[pri:0, instance:base.ValidatePutCall@2b98378d]" name="Putrequest" duration-ms="3892" started-at="2019-02-10T18:21:57Z" finished-at="2019-02-10T18:22:01Z">
+    <test name="Default test" duration-ms="2611" started-at="2019-02-11T13:44:31Z" finished-at="2019-02-11T13:44:34Z">
+      <class name="testcases.BalanceDetailsByCard">
+        <test-method status="PASS" signature="getbalancedetails()[pri:0, instance:testcases.BalanceDetailsByCard@8bd1b6a]" name="getbalancedetails" duration-ms="2593" started-at="2019-02-11T19:14:31Z" finished-at="2019-02-11T19:14:34Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Putrequest -->
-      </class> <!-- base.ValidatePutCall -->
+        </test-method> <!-- getbalancedetails -->
+      </class> <!-- testcases.BalanceDetailsByCard -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
